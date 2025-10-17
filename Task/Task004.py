@@ -1,11 +1,14 @@
+#TASK 1
 response_code = 200
 
 if response_code == 200:
     print("Passed API Request")
-else:
+elif response_code == 404:
     print("Failed API Request")
+else:
+    print("Enter a valid response code")
 
-
+#TASK2
 # Expected and actual values
 expected_title = "Dashboard"
 actual_title = "Dashboard "
@@ -16,7 +19,7 @@ if expected_title.strip().lower() == actual_title.strip().lower():
 else:
     print("Test Failed – Title does not match")
 
-
+#TASK3
 # Page load time in seconds
 load_time = 4.2
 
@@ -26,6 +29,8 @@ if load_time <= 3:
 else:
     print(f"Page load too slow: {load_time} seconds")
 
+
+#TASK4
 # Input credentials
 username = "admin"
 password = "1234"
