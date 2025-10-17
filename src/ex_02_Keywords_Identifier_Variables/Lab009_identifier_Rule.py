@@ -1,0 +1,2 @@
+long_var_name_is_creATED_HERE = True
+print(long_var_name_is_creATED_HERE)
