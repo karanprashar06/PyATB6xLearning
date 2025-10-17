@@ -105,7 +105,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task4">
+  <component name="RunManager" selected="Python.Task004">
     <configuration name="Lab041_Memership_Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -198,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,7 +212,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\karan\PycharmProjects\PyATB6xLearning\Task\Task004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +223,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task4" />
+        <item itemvalue="Python.Task004" />
         <item itemvalue="Python.Lab044_ELSEIF" />
         <item itemvalue="Python.Lab042_Math" />
         <item itemvalue="Python.Lab042_Identity_Operaor" />
