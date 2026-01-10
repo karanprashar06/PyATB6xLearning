@@ -4,61 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc9444fe-9b01-4c04-808b-46e82dcb7256" name="Changes" comment="Updated on 03 Nov">
+    <list default="true" id="dc9444fe-9b01-4c04-808b-46e82dcb7256" name="Changes" comment="Updated on 29 NOV">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab108_Dict_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab109_Dict_Mult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab110_Dict_Concepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab111_Dict_Frequency_Char_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab112_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab113_Dict_IQ_Max_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab114_IQ_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab115_Dict_Dup_Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab115_Dict_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab116_IQ_count_vowel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/01_Class_Object/Lab117_OOPS_Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/01_Class_Object/Lab118_Class_Dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/02_Constructor/Lab119_Class_Dog_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/02_Constructor/Lab119_Class_Dog_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/02_Constructor/Lab120_Class_Dog_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/02_Constructor/Lab121_User_Input_Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/02_Constructor/Lab122_Calc_Non_PC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/02_Constructor/Lab123_Calc_PC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/03_Instance_Variable/Lab124_OOps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/03_Instance_Variable/Lab125_oops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/04_Encapsulation/Lab127_Encap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/04_Encapsulation/Lab128_Ecaps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/04_Encapsulation/Lab129_Encaps_ENV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/04_Encapsulation/Lab129_Encaps_Ft.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/04_Encapsulation/Lab130_Ecap_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/04_Encapsulation/Lab132_Ecap_Personal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/04_Encapsulation/LabPublic_Private_Protected.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/04_Encapsulation/Lan131_ecap_exapmle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/05_Inheritence/01_SI/Inheritence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/05_Inheritence/01_SI/Lab133_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/05_Inheritence/02_MI/Lab134_MI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/05_Inheritence/02_MI/Lab135_MI_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/05_Inheritence/03_ML/Lab136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/05_Inheritence/04_HI/Lab137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/05_Inheritence/05_HB_I/Lab139_REAL_AUTOMQATION.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading/Lab142_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading/Lab143_All_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading/Lab143_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading/Lab144_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/06_Polymorphism/Method_overriding/Lab140_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/06_Polymorphism/Method_overriding/Lab141_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/07_Abstraction/Lab145_All_AB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/07_Abstraction/Lab146_ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/07_Abstraction/Lab147_REAL_AUTOMATION.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/07_Abstraction/Lab148_REAL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/07_Abstraction/Lab149_ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/08_Static/Lab150_Static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/08_Static/Lab151_Static_Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/08_Static/Lab152_Static_All.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/08_Static/Lab153_Static_Non_Static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/08_Static/Lab154_REAL_EXAMPLE..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Requests/test_DELETE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Requests/test_PATCH.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Requests/test_POST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Requests/test_POST2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Requests/test_POST_TOKEN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Requests/test_PUT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24_PyTest/Lab184_Pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24_PyTest/test_184_Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24_PyTest/test_185.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_Allure/test_186.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Reuests/test_Lab187_pytest_requests_allure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Reuests/test_Lab188.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Reuests/test_Lab189_POST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Reuests/test_Lab190_POST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Reuests/test_Lab191_POST_TOKEN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Reuests/test_Lab192_PUT_TOKEN.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +65,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for src.Practice_Requests.test_PUT.test_create_token.executor": "Run",
+    "Python tests.Python tests for src.ex_24_PyTest.test_184_Basics.test_basic.executor": "Run",
+    "Python tests.Python tests for src.ex_24_PyTest.test_184_Basics.test_basic2.executor": "Run",
+    "Python tests.Python tests for src.ex_24_PyTest.test_185.test_login.executor": "Run",
+    "Python tests.Python tests for src.ex_24_PyTest.test_185.test_method2.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Reuests.test_Lab187_pytest_requests_allure.test_get_request.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Reuests.test_Lab187_pytest_requests_allure.test_get_request_invalid.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Reuests.test_Lab189_POST.test_create_booking_positive_tc1.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Reuests.test_Lab190_POST.test_create_booking_positive_tc1.executor": "Run",
+    "Python tests.Python tests for src.ex_26_Reuests.test_Lab192_PUT_TOKEN.test_delete.executor": "Run",
+    "Python tests.Python tests in test_184_Basics.py.executor": "Run",
+    "Python tests.Python tests in test_185.py.executor": "Run",
+    "Python tests.Python tests in test_Lab190_POST.py.executor": "Run",
     "Python.001.executor": "Run",
     "Python.005.executor": "Run",
     "Python.006.executor": "Run",
@@ -208,6 +184,7 @@
     "Python.Lab148_REAL.executor": "Run",
     "Python.Lab153_Static_Non_Static.executor": "Run",
     "Python.Lab154_REAL_EXAMPLE..executor": "Run",
+    "Python.Lab184_Pytest.executor": "Run",
     "Python.LabForReverse.executor": "Run",
     "Python.LabPublic_Private_Protected.executor": "Run",
     "Python.LabQ01_real_example.executor": "Run",
@@ -247,124 +224,89 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab154_REAL_EXAMPLE.">
-    <configuration name="Lab144_MO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for src.Practice_Requests.test_PUT.test_create_token">
+    <configuration name="Python tests for src.Practice_Requests.test_PUT.test_create_token" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading/Lab144_MO.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.Practice_Requests.test_PUT.test_create_token&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab147_REAL_AUTOMATION" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_26_Reuests.test_Lab189_POST.test_create_booking_positive_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/07_Abstraction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/07_Abstraction/Lab147_REAL_AUTOMATION.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Reuests.test_Lab189_POST.test_create_booking_positive_tc1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab148_REAL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_26_Reuests.test_Lab190_POST.test_create_booking_positive_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/07_Abstraction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/07_Abstraction/Lab148_REAL.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Reuests.test_Lab190_POST.test_create_booking_positive_tc1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab153_Static_Non_Static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_26_Reuests.test_Lab192_PUT_TOKEN.test_delete" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/08_Static/Lab153_Static_Non_Static.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Reuests.test_Lab192_PUT_TOKEN.test_delete&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab154_REAL_EXAMPLE." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Lab190_POST.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/08_Static/Lab154_REAL_EXAMPLE..py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_26_Reuests/test_Lab190_POST.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab154_REAL_EXAMPLE." />
-        <item itemvalue="Python.Lab153_Static_Non_Static" />
-        <item itemvalue="Python.Lab148_REAL" />
-        <item itemvalue="Python.Lab147_REAL_AUTOMATION" />
-        <item itemvalue="Python.Lab144_MO" />
+        <item itemvalue="Python tests.Python tests for src.Practice_Requests.test_PUT.test_create_token" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Reuests.test_Lab192_PUT_TOKEN.test_delete" />
+        <item itemvalue="Python tests.Python tests in test_Lab190_POST.py" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Reuests.test_Lab190_POST.test_create_booking_positive_tc1" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Reuests.test_Lab189_POST.test_create_booking_positive_tc1" />
       </list>
     </recent_temporary>
   </component>
@@ -509,7 +451,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762955963847</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Updated on 29 NOV">
+      <option name="closed" value="true" />
+      <created>1764411236409</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1764411236409</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,7 +483,8 @@
     <MESSAGE value="Updated on 23 Oct" />
     <MESSAGE value="Updated on 30 Oct" />
     <MESSAGE value="Updated on 03 Nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated on 03 Nov" />
+    <MESSAGE value="Updated on 29 NOV" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated on 29 NOV" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab024_String_Conversion.coverage" NAME="Lab024_String_Conversion Coverage Results" MODIFIED="1760677940744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_03_Literals_Variables" />
