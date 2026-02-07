@@ -11,8 +11,10 @@ print(squares)
 # index(element, start, end)
 # Returns the index of the first occurrence of the element.
 numbers = [10, 20, 30, 20, 40]
-print(numbers.index(20))
+print(numbers.index(20),end="||")
+print()
 
+print(len(numbers))
 print(numbers.count(20))
 
 numbers.sort()
@@ -34,7 +36,7 @@ print(sum(numbers))  # 120
 # Slicing
 print(numbers)  # [10, 20, 20, 30, 40]
 print(numbers[1:4])  # from index of 1 to 3
-print(numbers[-1])  # # Last element
+print(numbers[-1:0:-1])  # # Last element
 
 print("apple" in numbers)
 print(20 in numbers)
