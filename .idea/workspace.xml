@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc9444fe-9b01-4c04-808b-46e82dcb7256" name="Changes" comment="Updated 10 Jan">
+    <list default="true" id="dc9444fe-9b01-4c04-808b-46e82dcb7256" name="Changes" comment="Updated 07 Feb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_Requests/test_POST2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_Requests/test_POST2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab025_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab025_String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07_Loop/For/Lab049_For_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Loop/For/Lab049_For_Loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07_Loop/For/Loop_050.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Loop/For/Loop_050.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_13_List/Lab098_POP.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13_List/Lab098_POP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14_Tuple/Lab100_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab100_Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14_Tuple/Lab101_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab101_Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_15_SET/Lab102_SET.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_15_SET/Lab102_SET.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab106_Dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab106_Dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab107_Dict_P2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab107_Dict_P2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab108_Dict_Mul.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab108_Dict_Mul.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab111_Dict_Frequency_Char_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab111_Dict_Frequency_Char_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPS_Python/01_Class_Object/Lab118_Class_Dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/01_Class_Object/Lab118_Class_Dog.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,174 +54,181 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for src.Practice_Requests.test_PUT.test_create_token.executor": "Run",
-    "Python tests.Python tests for src.ex_24_PyTest.test_184_Basics.test_basic.executor": "Run",
-    "Python tests.Python tests for src.ex_24_PyTest.test_184_Basics.test_basic2.executor": "Run",
-    "Python tests.Python tests for src.ex_24_PyTest.test_185.test_login.executor": "Run",
-    "Python tests.Python tests for src.ex_24_PyTest.test_185.test_method2.executor": "Run",
-    "Python tests.Python tests for src.ex_26_Reuests.test_Lab187_pytest_requests_allure.test_get_request.executor": "Run",
-    "Python tests.Python tests for src.ex_26_Reuests.test_Lab187_pytest_requests_allure.test_get_request_invalid.executor": "Run",
-    "Python tests.Python tests for src.ex_26_Reuests.test_Lab189_POST.test_create_booking_positive_tc1.executor": "Run",
-    "Python tests.Python tests for src.ex_26_Reuests.test_Lab190_POST.test_create_booking_positive_tc1.executor": "Run",
-    "Python tests.Python tests for src.ex_26_Reuests.test_Lab192_PUT_TOKEN.test_delete.executor": "Run",
-    "Python tests.Python tests in test_184_Basics.py.executor": "Run",
-    "Python tests.Python tests in test_185.py.executor": "Run",
-    "Python tests.Python tests in test_Lab190_POST.py.executor": "Run",
-    "Python.001.executor": "Run",
-    "Python.005.executor": "Run",
-    "Python.006.executor": "Run",
-    "Python.Area.executor": "Run",
-    "Python.Inheritence.executor": "Run",
-    "Python.LAb031_Arth_Op.executor": "Run",
-    "Python.Lab0002.executor": "Run",
-    "Python.Lab001 (1).executor": "Run",
-    "Python.Lab001 (2).executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab001_Python_Hello.executor": "Run",
-    "Python.Lab002_Identifier.executor": "Run",
-    "Python.Lab002_comment.executor": "Run",
-    "Python.Lab003_Keyword.executor": "Run",
-    "Python.Lab003_print.executor": "Run",
-    "Python.Lab005_Vaiable_Part1 (1).executor": "Run",
-    "Python.Lab006_Identifier.executor": "Run",
-    "Python.Lab007_Variables_Names.executor": "Run",
-    "Python.Lab008_Dynamically_typed.executor": "Run",
-    "Python.Lab009_identifier_Rule.executor": "Run",
-    "Python.Lab010_maths.executor": "Run",
-    "Python.Lab011_IQ_BODMAS.executor": "Run",
-    "Python.Lab012_Mulitple_Variables.executor": "Run",
-    "Python.Lab013_Math_Prints.executor": "Run",
-    "Python.Lab014_Math_Functions.executor": "Run",
-    "Python.Lab015_IQ.executor": "Run",
-    "Python.Lab016_Literals.executor": "Run",
-    "Python.Lab019_Data_Types.executor": "Run",
-    "Python.Lab020_BuiltIn_Functions.executor": "Run",
-    "Python.Lab021_UserInput.executor": "Run",
-    "Python.Lab022_User_Input_Sum_Of_Two_Numbers.executor": "Run",
-    "Python.Lab023_Strings.executor": "Run",
-    "Python.Lab024_String_Conversion.executor": "Run",
-    "Python.Lab025_String.executor": "Run",
-    "Python.Lab026_Literals.executor": "Run",
-    "Python.Lab027_Escape_Char.executor": "Run",
-    "Python.Lab029_Task1.executor": "Run",
-    "Python.Lab031_UnaryOperator.executor": "Run",
-    "Python.Lab032_Comparision_Op.executor": "Run",
-    "Python.Lab037_Operators_Logical.executor": "Run",
-    "Python.Lab038_Operators_Example.executor": "Run",
-    "Python.Lab039_Operators_P8.executor": "Run",
-    "Python.Lab040_Operators_P9.executor": "Run",
-    "Python.Lab040_Ternary_Operator.executor": "Run",
-    "Python.Lab041_Memership_Operator.executor": "Run",
-    "Python.Lab042_Identity_Operaor.executor": "Run",
-    "Python.Lab042_Math.executor": "Run",
-    "Python.Lab044_ELSEIF.executor": "Run",
-    "Python.Lab048.executor": "Run",
-    "Python.Lab049_For_Loop.executor": "Run",
-    "Python.Lab052_Iq2.executor": "Run",
-    "Python.Lab053_While.executor": "Run",
-    "Python.Lab055_For_break.executor": "Run",
-    "Python.Lab056_IQ.executor": "Run",
-    "Python.Lab057_Pass_Break.executor": "Run",
-    "Python.Lab058_IQ_Even.executor": "Run",
-    "Python.Lab059_Odd_Number.executor": "Run",
-    "Python.Lab060_BuiltIn.executor": "Run",
-    "Python.Lab061_Example_Function.executor": "Run",
-    "Python.Lab062_Function_Parameter.executor": "Run",
-    "Python.Lab063_Function_Return.executor": "Run",
-    "Python.Lab064_function_keywords.executor": "Run",
-    "Python.Lab065_Function.executor": "Run",
-    "Python.Lab066_Functions_Return_Multiple_Values.executor": "Run",
-    "Python.Lab070_Functions_IQ.executor": "Run",
-    "Python.Lab072_Infinite_Args.executor": "Run",
-    "Python.Lab075_Local_Variable.executor": "Run",
-    "Python.Lab076.executor": "Run",
-    "Python.Lab077_Local_VAr.executor": "Run",
-    "Python.Lab078_Inner_Function.executor": "Run",
-    "Python.Lab079_Decorator.executor": "Run",
-    "Python.Lab097_List_Example.executor": "Run",
-    "Python.Lab098_POP.executor": "Run",
-    "Python.Lab106_Dict.executor": "Run",
-    "Python.Lab108_Dict_Mul.executor": "Run",
-    "Python.Lab109_Dict_Mult.executor": "Run",
-    "Python.Lab110_Dict_Concepts.executor": "Run",
-    "Python.Lab111_Dict_Frequency_Char_String.executor": "Run",
-    "Python.Lab112_Dict.executor": "Run",
-    "Python.Lab113_Dict_IQ_Max_Values.executor": "Run",
-    "Python.Lab114_!Q_Dict.executor": "Run",
-    "Python.Lab115_Dict_Dup_Keys.executor": "Run",
-    "Python.Lab115_Dict_IQ.executor": "Run",
-    "Python.Lab116_IQ_count_vowel.executor": "Run",
-    "Python.Lab117_OOPS_Class.executor": "Run",
-    "Python.Lab118_Class_Dog.executor": "Run",
-    "Python.Lab119_Class_Dog_P2.executor": "Run",
-    "Python.Lab119_Class_Dog_P3.executor": "Run",
-    "Python.Lab120_Class_Dog_P3.executor": "Run",
-    "Python.Lab121_User_Input_Person.executor": "Run",
-    "Python.Lab122_Calc_Non_PC.executor": "Run",
-    "Python.Lab123_Calc_PC.executor": "Run",
-    "Python.Lab124_OOps.executor": "Run",
-    "Python.Lab125_oops.executor": "Run",
-    "Python.Lab127_Encap.executor": "Run",
-    "Python.Lab128_Ecaps.executor": "Run",
-    "Python.Lab129_Encaps_ENV.executor": "Run",
-    "Python.Lab130_Ecap_Example.executor": "Run",
-    "Python.Lab132_Ecap_Personal.executor": "Run",
-    "Python.Lab133_Inheritance.executor": "Run",
-    "Python.Lab134_MI.executor": "Run",
-    "Python.Lab136.executor": "Run",
-    "Python.Lab137.executor": "Run",
-    "Python.Lab140_MO.executor": "Run",
-    "Python.Lab141_MO.executor": "Run",
-    "Python.Lab144_MO.executor": "Run",
-    "Python.Lab147_REAL_AUTOMATION.executor": "Run",
-    "Python.Lab148_REAL.executor": "Run",
-    "Python.Lab153_Static_Non_Static.executor": "Run",
-    "Python.Lab154_REAL_EXAMPLE..executor": "Run",
-    "Python.Lab184_Pytest.executor": "Run",
-    "Python.LabForReverse.executor": "Run",
-    "Python.LabPublic_Private_Protected.executor": "Run",
-    "Python.LabQ01_real_example.executor": "Run",
-    "Python.Lab_048_Loop.executor": "Run",
-    "Python.Lab_051_IQ.executor": "Run",
-    "Python.Lab_054_For_While.executor": "Run",
-    "Python.Lab_059.executor": "Run",
-    "Python.Lab_Match_02.executor": "Run",
-    "Python.Lab_Switch_Match_01.executor": "Run",
-    "Python.Lab_usedForRealLife.executor": "Run",
-    "Python.Lan131_ecap_exapmle.executor": "Run",
-    "Python.Loop_050.executor": "Run",
-    "Python.Task008.executor": "Run",
-    "Python.Task009_task_FizzBuzz.executor": "Run",
-    "Python.Task010.executor": "Run",
-    "Python.Task012.executor": "Run",
-    "Python.Task4.executor": "Run",
-    "Python.Task_011.executor": "Run",
-    "Python.Task_011_Square (1).executor": "Run",
-    "Python.Task_Check_TC_Status_001.executor": "Run",
-    "Python.Task_Function_001a.executor": "Run",
-    "Python.Task_Function_002a.executor": "Run",
-    "Python.Task_LeepYear.executor": "Run",
-    "Python.Task_function_001.executor": "Run",
-    "Python.Task_function_002.executor": "Run",
-    "Python.Task_loop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for src.Practice_Requests.test_PUT.test_create_token.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_24_PyTest.test_184_Basics.test_basic.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_24_PyTest.test_184_Basics.test_basic2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_24_PyTest.test_185.test_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_24_PyTest.test_185.test_method2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab187_pytest_requests_allure.test_get_request.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab187_pytest_requests_allure.test_get_request_invalid.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab189_POST.test_create_booking_positive_tc1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab190_POST.test_create_booking_positive_tc1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab192_PUT_TOKEN.test_delete.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_184_Basics.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_185.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab190_POST.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LAb031_Arth_Op.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001_Python_Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002_Identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002_comment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_Keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005_Vaiable_Part1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006_Identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007_Variables_Names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_Dynamically_typed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009_identifier_Rule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010_maths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011_IQ_BODMAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012_Mulitple_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013_Math_Prints.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014_Math_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019_Data_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020_BuiltIn_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021_UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022_User_Input_Sum_Of_Two_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024_String_Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027_Escape_Char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_UnaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032_Comparision_Op.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab037_Operators_Logical.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab038_Operators_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab039_Operators_P8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_Operators_P9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_Ternary_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab041_Memership_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042_Identity_Operaor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042_Math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab044_ELSEIF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab049_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab052_Iq2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab053_While.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab055_For_break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab056_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057_Pass_Break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab058_IQ_Even.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab059_Odd_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab060_BuiltIn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab061_Example_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab062_Function_Parameter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab063_Function_Return.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab064_function_keywords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab065_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab066_Functions_Return_Multiple_Values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab070_Functions_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab072_Infinite_Args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab075_Local_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab076.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab077_Local_VAr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab078_Inner_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab079_Decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab097_List_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab098_POP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab099_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab100_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab101_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab102_SET.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab103_SET_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab104_SET_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab106_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab107_Dict_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab108_Dict_Mul.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab109_Dict_Mult.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab110_Dict_Concepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab111_Dict_Frequency_Char_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab112_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab113_Dict_IQ_Max_Values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab114_!Q_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab115_Dict_Dup_Keys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab115_Dict_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab116_IQ_count_vowel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab117_OOPS_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab118_Class_Dog.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab119_Class_Dog_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab119_Class_Dog_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab120_Class_Dog_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab121_User_Input_Person.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab122_Calc_Non_PC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab123_Calc_PC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab124_OOps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab125_oops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab127_Encap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab128_Ecaps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab129_Encaps_ENV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab130_Ecap_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab132_Ecap_Personal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab133_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab134_MI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab136.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab137.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab140_MO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab141_MO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab144_MO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab147_REAL_AUTOMATION.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab148_REAL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab153_Static_Non_Static.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab154_REAL_EXAMPLE..executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab184_Pytest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabForReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabPublic_Private_Protected.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabQ01_real_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_048_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_051_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_054_For_While.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_Match_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_Switch_Match_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_usedForRealLife.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lan131_ecap_exapmle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loop_050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task009_task_FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_011_Square (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Check_TC_Status_001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Function_001a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Function_002a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_LeepYear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_function_001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_function_002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_loop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Lab098_POP">
-    <configuration name="Lab057_Pass_Break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.Task_vowels_and_consonants">
+    <configuration name="Lab108_Dict_Mul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,11 +237,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loop/While" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loop/While/Lab057_Pass_Break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab108_Dict_Mul.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab079_Decorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab111_Dict_Frequency_Char_String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,11 +259,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10_Decorator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10_Decorator/Lab079_Decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab111_Dict_Frequency_Char_String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab097_List_Example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab115_Dict_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,11 +281,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_13_List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_13_List/Lab097_List_Example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab115_Dict_IQ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab098_POP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab116_IQ_count_vowel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,11 +303,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_13_List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_13_List/Lab098_POP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab116_IQ_count_vowel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,7 +316,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_054_For_While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_vowels_and_consonants" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,11 +325,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loop/While" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loop/While/Lab_054_For_While.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_vowels_and_consonants.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,11 +340,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab098_POP" />
-        <item itemvalue="Python.Lab097_List_Example" />
-        <item itemvalue="Python.Lab079_Decorator" />
-        <item itemvalue="Python.Lab_054_For_While" />
-        <item itemvalue="Python.Lab057_Pass_Break" />
+        <item itemvalue="Python.Task_vowels_and_consonants" />
+        <item itemvalue="Python.Lab116_IQ_count_vowel" />
+        <item itemvalue="Python.Lab115_Dict_IQ" />
+        <item itemvalue="Python.Lab111_Dict_Frequency_Char_String" />
+        <item itemvalue="Python.Lab108_Dict_Mul" />
       </list>
     </recent_temporary>
   </component>
@@ -494,7 +505,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768038779756</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Updated 07 Feb">
+      <option name="closed" value="true" />
+      <created>1770437453213</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1770437453214</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +539,8 @@
     <MESSAGE value="Updated on 03 Nov" />
     <MESSAGE value="Updated on 29 NOV" />
     <MESSAGE value="Updated 10 Jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated 10 Jan" />
+    <MESSAGE value="Updated 07 Feb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated 07 Feb" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab024_String_Conversion.coverage" NAME="Lab024_String_Conversion Coverage Results" MODIFIED="1760677940744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_03_Literals_Variables" />

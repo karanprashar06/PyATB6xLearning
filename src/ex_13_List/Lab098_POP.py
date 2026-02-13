@@ -48,7 +48,8 @@ print(l)
 
 # Nested Lists
 matrix = [[1,2,3], [4,5,6], [7,8,9]]
-print(matrix[1][2])
+print(matrix[1][2],end="||")
+print()
 
 # del statement - Deletes an element by index or the whole list.
 del numbers[0]

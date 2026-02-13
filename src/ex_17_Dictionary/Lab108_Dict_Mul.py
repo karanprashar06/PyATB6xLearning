@@ -3,9 +3,13 @@ student_infor1 ={
     "age" : 31,
     "address" : {
         "city" : "Delhi",
-        "state" : "New Delhi"
-    }
+        "state" : {
+            "area" : "subhash nagar",
+            "floor" : "ground"
+        },
+    },
 }
+
 student_infor2 ={
     "name" : "Akshay",
     "age" : 30,
@@ -25,3 +29,5 @@ print(student_list[0]["address"]["city"])
 print(student_list[1]["address"]["state"])
 
 print(student_infor2["age"])
+
+print(student_list[0]["address"]["state"]["floor"])

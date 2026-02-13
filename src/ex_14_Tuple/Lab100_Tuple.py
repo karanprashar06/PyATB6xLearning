@@ -17,6 +17,7 @@ print(my_api_list2)
 API_URLSs = ("https://sdet.live/python0x", "https://awesomeqa.com", "https://thetestingacademy.com")
 print(API_URLSs[0])
 print(API_URLSs[1])
+print(end="||")
 
 
 t = tuple()

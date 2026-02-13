@@ -7,7 +7,10 @@ t = (12, 34, 56)
 # t.append(12) # AttributeError: 'tuple' object has no attribute 'append'
 
 ENV_API_URLS = tuple(["abc.com/get", "xyz.com/post", "qwe.com/put"])
+new_ENV_API_URLS =("abc.com/get", "xyz.com/post", "qwe.com/put")
+
 print(ENV_API_URLS)
+print(new_ENV_API_URLS)
 
 colors = ("red", "green", "blue")
 for c in colors:

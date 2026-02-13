@@ -7,11 +7,12 @@ my_dict = {
 }
 
 print(my_dict)
+print(my_dict.items())
 print(my_dict["age"])
 print(my_dict["role"])
 
 my_dict["role"] = "Manual Tester"
-print(my_dict)
+print(my_dict,end="|||")
 
 del my_dict["age"]
 print(my_dict)

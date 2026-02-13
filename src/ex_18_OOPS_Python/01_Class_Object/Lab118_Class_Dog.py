@@ -9,12 +9,13 @@ class Dog:
     #B
     def bark(self,name):
         print("barking")
-        #print(name)
+        print(name)
         print(self.name)
 
     def talk(self):
         print("talking")
 
 captain = Dog()
-captain.bark("Jim")
+captain.name = "pineapple"
+captain.bark("ok")
 captain.talk()
