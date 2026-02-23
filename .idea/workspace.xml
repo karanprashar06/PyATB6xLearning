@@ -5,16 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc9444fe-9b01-4c04-808b-46e82dcb7256" name="Changes" comment="Updated 07 Feb">
+      <change afterPath="$PROJECT_DIR$/Task/Task_palindrome_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task_palindrome_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Exception/fgfn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_Modules_OS/Lab172_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_Modules_OS/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_Modules_OS/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/Lab173_Package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/mymodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/new_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21_Package_vs_DIR/new_package/util_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab174_Collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab175_Main_METHOD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab176_Main_Usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/Lab177_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22_Collections/pramod.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab178_Open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab179_Open_R.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab180_append_Open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab181_CSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/Lab182_Pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/pramod.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/td.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_File_IO/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Reuests/test_Lab189_POST2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26_Reuests/test_Lab192_put_token2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13_List/Lab098_POP.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13_List/Lab098_POP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_14_Tuple/Lab100_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab100_Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_14_Tuple/Lab101_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab101_Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_15_SET/Lab102_SET.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_15_SET/Lab102_SET.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab106_Dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab106_Dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab107_Dict_P2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab107_Dict_P2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab108_Dict_Mul.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab108_Dict_Mul.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab111_Dict_Frequency_Char_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab111_Dict_Frequency_Char_String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPS_Python/01_Class_Object/Lab118_Class_Dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/01_Class_Object/Lab118_Class_Dog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPS_Python/03_Instance_Variable/Lab124_OOps.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/03_Instance_Variable/Lab124_OOps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPS_Python/05_Inheritence/01_SI/Inheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/05_Inheritence/01_SI/Inheritence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPS_Python/05_Inheritence/02_MI/Lab135_MI_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/05_Inheritence/02_MI/Lab135_MI_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_26_Reuests/test_Lab192_PUT_TOKEN.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_26_Reuests/test_Lab192_PUT_TOKEN.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +85,18 @@
     &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab187_pytest_requests_allure.test_get_request.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab187_pytest_requests_allure.test_get_request_invalid.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab189_POST.test_create_booking_positive_tc1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab189_POST2.test_create_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab189_POST2.test_read_booking.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab190_POST.test_create_booking_positive_tc1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab191_POST_TOKEN.test_create_token.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab192_PUT_TOKEN.test_delete.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab192_PUT_TOKEN.test_put.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.ex_26_Reuests.test_Lab192_put_token2.test_put.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab192_put_token2.test_put.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_184_Basics.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_185.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_Lab190_POST.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab192_put_token2.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.001.executor&quot;: &quot;Run&quot;,
     &quot;Python.005.executor&quot;: &quot;Run&quot;,
     &quot;Python.006.executor&quot;: &quot;Run&quot;,
@@ -178,6 +205,7 @@
     &quot;Python.Lab132_Ecap_Personal.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab133_Inheritance.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab134_MI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab135_MI_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab136.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab137.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab140_MO.executor&quot;: &quot;Run&quot;,
@@ -214,6 +242,9 @@
     &quot;Python.Task_function_001.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_function_002.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_palindrome_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_palindrome_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_vowels_and_consonants.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -227,124 +258,94 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Task_vowels_and_consonants">
-    <configuration name="Lab108_Dict_Mul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karan\PycharmProjects\PyATB6xLearning\src\ex_26_Reuests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for src.ex_26_Reuests.test_Lab192_put_token2.test_put">
+    <configuration name="Python tests for src.ex_26_Reuests.test_Lab190_POST.test_create_booking_positive_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab108_Dict_Mul.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Reuests.test_Lab190_POST.test_create_booking_positive_tc1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab111_Dict_Frequency_Char_String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_26_Reuests.test_Lab191_POST_TOKEN.test_create_token" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab111_Dict_Frequency_Char_String.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Reuests.test_Lab191_POST_TOKEN.test_create_token&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab115_Dict_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_26_Reuests.test_Lab192_PUT_TOKEN.test_put" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab115_Dict_IQ.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Reuests.test_Lab192_PUT_TOKEN.test_put&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab116_IQ_count_vowel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_26_Reuests.test_Lab192_put_token2.test_put" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab116_IQ_count_vowel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26_Reuests.test_Lab192_put_token2.test_put&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_vowels_and_consonants" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Lab192_put_token2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_vowels_and_consonants.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_26_Reuests/test_Lab192_put_token2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_vowels_and_consonants" />
-        <item itemvalue="Python.Lab116_IQ_count_vowel" />
-        <item itemvalue="Python.Lab115_Dict_IQ" />
-        <item itemvalue="Python.Lab111_Dict_Frequency_Char_String" />
-        <item itemvalue="Python.Lab108_Dict_Mul" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Reuests.test_Lab192_put_token2.test_put" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Reuests.test_Lab192_PUT_TOKEN.test_put" />
+        <item itemvalue="Python tests.Python tests in test_Lab192_put_token2.py" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Reuests.test_Lab191_POST_TOKEN.test_create_token" />
+        <item itemvalue="Python tests.Python tests for src.ex_26_Reuests.test_Lab190_POST.test_create_booking_positive_tc1" />
       </list>
     </recent_temporary>
   </component>
@@ -513,7 +514,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770437453214</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Updated 07 Feb">
+      <option name="closed" value="true" />
+      <created>1770979413696</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1770979413696</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,6 +550,26 @@
     <MESSAGE value="Updated 10 Jan" />
     <MESSAGE value="Updated 07 Feb" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated 07 Feb" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_26_Reuests/test_Lab188.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_26_Reuests/test_Lab192_PUT_TOKEN.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_26_Reuests/test_Lab192_PUT_TOKEN.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab024_String_Conversion.coverage" NAME="Lab024_String_Conversion Coverage Results" MODIFIED="1760677940744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_03_Literals_Variables" />
